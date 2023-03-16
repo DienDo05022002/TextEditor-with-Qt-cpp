@@ -1,0 +1,1 @@
+# TextEditor-with-Qt-c-
